@@ -12,16 +12,11 @@
 	box-sizing: border-box;
 }
 
-@media screen and (max-height: 500px) {
-	main{
-		height: 300px;
-	}
-}
-
 html, body{
 	background-color: var(--cor2);
 	width: 100vw;
 	height: 100vh;
+	display: block;
 }
 
 main{
