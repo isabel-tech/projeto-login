@@ -139,3 +139,10 @@ form > a.botao > span{
 	font-size: 0.8em;
 }
 
+input#ilogin{
+	height: 33px;
+}
+input#isenha{
+	height: 33px;
+}
+
