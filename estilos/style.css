@@ -141,10 +141,10 @@ form > a.botao > span{
 
 input#ilogin{
 	height: 31px;
-	
+	margin-bottom: 1px;
 }
 input#isenha{
 	height: 31px;
-	
+	margin-bottom: 1px;
 }
 
