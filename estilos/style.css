@@ -91,7 +91,7 @@ div.campo > input{
 	padding: 4px;
 	width: calc(100% - 44.5px);
 	height: 100%;
-	transform: translateY(-10.9px);
+	transform: translateY(-11px);
 	/* Sempre coloque as animações embaixo */
 }
 
